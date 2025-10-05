@@ -45,13 +45,12 @@ function Home() {
         <p className="para">
           currently im getting my hands dirty with{" "}
           <a href="https://blog.dataengineerthings.org">data</a>, running daily
-          and cooking (biryani). i find all these very amusing and i think this
-          time im gonna stick to these.
+          and cooking good food (biryani). i find all these very amusing and i think im gonna stick on to these.
         </p>
         <Border />
         <p className="para">
           I don't regret trying multiple things out, that's what got me this
-          far. I'm gonna learn so much more cool stuff (hopefully)! 👹
+          far. I'm gonna learn so much more cool stuff (hopefully)! 
           <b>👹!</b>
         </p>
         <p className="para">
