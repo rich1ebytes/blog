@@ -20,7 +20,7 @@ function Home() {
         <p className="para">
           you can{" "}
           <a
-            href="https://portfoliorichard.vercel.app/"
+            href="https://bento.me/richardgomes"
             target="_blank"
             rel="noopener noreferrer"
           >
