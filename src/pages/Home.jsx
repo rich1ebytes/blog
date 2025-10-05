@@ -11,7 +11,7 @@ function Home() {
           hi i'm richard!
         </h1>
         <p className="para">
-          someone who loves to explores and build things on the internet.
+          someone who loves to explore and build things on the internet.
           <br />
           <br />
           was a marketing guy, now am in coding, making apps, learning new tech,
@@ -44,12 +44,12 @@ function Home() {
         </p>
         <p className="para">
           currently im getting my hands dirty with <a href="https://blog.dataengineerthings.org">data</a>, running daily and cooking (biryani). i find
-          all these very amusing and i think this time im gonna stick on to
+          all these very amusing and i think this time im gonna stick to
           these.
         </p>
         <Border />
         <p className="para">
-          i don't regret trying multiple things out, but thats what made me come
+          i don't regret trying multiple things out, but that's what made me come
           this far. i'm gonna learn so many more cool stuff (hopefully).{" "}
           <b>👹!</b>
         </p>
