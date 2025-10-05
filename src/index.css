@@ -1,1 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
+
+
+/* web font */
+root,html,body{
+     font-family: "Montserrat", sans-serif;
+     font-weight: 300;
+}
+
+/* body{
+     font-family: "alan-sans-font";
+} */
+
+.para{
+     font-size:large;
+     font-weight: 400;
+     color:rgba(49, 49, 49, 0.836);
+}
+
+a{
+     text-decoration:underline;
+     color: blue;
+}
