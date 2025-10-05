@@ -49,8 +49,8 @@ function Home() {
         </p>
         <Border />
         <p className="para">
-          I don't regret trying multiple things out, that's what got me this
-          far. I'm gonna learn so much more cool stuff (hopefully)! 
+          i don't regret trying multiple things out, that's what got me this
+          far. i'm gonna learn so much more cool stuff (hopefully) 
           <b>👹!</b>
         </p>
         <p className="para">
