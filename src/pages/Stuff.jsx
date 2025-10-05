@@ -16,7 +16,7 @@ function Stuff() {
           my stuff.
         </h1>
         <p className="para">
-          this is a collection of all the things i love and cherish in my life.
+          this is a collection of all the things i cherish in my life.
         </p>
         <Border />
         <div className="flex flex-col">
