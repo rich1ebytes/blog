@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <div className="flex flex-col gap-4 lg:gap-8 font-alan">
+      <div className="flex flex-col gap-4 lg:gap-6 font-alan">
         <h1
           className="mt-10 text-5xl font-bold 
           sm:text-5xl md:text-5xl lg:text-6xl"
@@ -12,7 +12,7 @@ function Home() {
           someone who loves to explores and build things on the internet.
         </p>
         <p className="para">
-          i take interest in coding, making apps, learning new tech, and
+          was a sales guy, now into coding, making apps, learning new tech, and
           running.
         </p>
         <p className="para">
@@ -24,13 +24,14 @@ function Home() {
           >
             find me here.
           </a>
+        <hr className="mt-8 border-t border-gray-300" />
         </p>
         <p className="para">
           apart from coding i enjoy researching about startups, economy and
           politics.
         </p>
         <p className="para">
-          in the most of 2025 i did start multiple things but never completed.
+          in the most of 2025 i did start multiple things but never really completed anything.
           be it a tech skill, a book to read, fitness, a new good habit or a
           routine.
         </p>
@@ -43,9 +44,13 @@ function Home() {
           thingyy, running daily and cooking (biryani). i find all these very
           amusing and i think this time im gonna stick on to these.
         </p>
+        <hr className="border-t border-gray-300" />
         <p className="para">
-          i don't regret trying multiple things out, its what made me come so
-          far. i'm gonna so many more cool stuff. <b>👹!</b>
+          i don't regret trying multiple things out, its what made me come this
+          far. i'm gonna learn so many more cool stuff (hopefully). <b>👹!</b>
+        </p>
+        <p className="para">
+          this is <a href="mailto:richardgomes4205@gmail.com"> my mail</a>
         </p>
       </div>
     </>

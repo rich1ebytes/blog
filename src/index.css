@@ -16,9 +16,21 @@ root,html,body{
      font-size:large;
      font-weight: 400;
      color:rgba(49, 49, 49, 0.836);
+     margin: 10px;
 }
 
 a{
      text-decoration:underline;
      color: blue;
 }
+
+.light{
+     color: rgb(144, 143, 143);
+}
+
+.subheading{
+     font-size:xx-large;
+     margin: 10px;
+     font-weight: bold;
+}
+
