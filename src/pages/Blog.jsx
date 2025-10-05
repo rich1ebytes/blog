@@ -1,5 +1,6 @@
 import ContactForm from "../components/ContactForm";
 import Border from "../components/Border";
+import HomeLink from "../components/HomeLink.jsx";
 
 function Blog() {
   return (
@@ -19,6 +20,9 @@ function Blog() {
 
         <ContactForm />
       </div>
+      <HomeLink/>
+        <Border />
+
     </>
   );
 }

@@ -2,6 +2,8 @@ import SpotifyCard from "../components/SpotifyCard.jsx";
 import MoviesCard from "../components/MoviesCard.jsx";
 import CarCard from "../components/CarCard.jsx";
 import Border from "../components/Border.jsx";
+import FavChannels from "../components/FavChannels.jsx";
+import HomeLink from "../components/HomeLink.jsx";
 
 function Stuff() {
   return (
@@ -23,9 +25,15 @@ function Stuff() {
 
           <SpotifyCard />
         <Border />
+        <FavChannels />
+        <Border />
 
           <CarCard />
         <Border />
+
+        <HomeLink/>
+                <Border />
+        
 
         </div>
       </div>

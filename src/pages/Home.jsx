@@ -35,7 +35,7 @@ function Home() {
         </p>
         <p className="para">
           in the most of 2025 i did start multiple things but never really
-          completed anything. be it a tech skill, a book to read, fitness, a new
+          completed anything. be it my business, a tech skill, a book to read, fitness, a new
           good habit or a routine.
         </p>
         <p className="para">
@@ -43,15 +43,7 @@ function Home() {
           life, stops complaining and does what it takes.
         </p>
         <p className="para">
-          currently im learning{" "}
-          <a href="https://python.org" target="_blank">
-            python
-          </a>{" "}
-          and{" "}
-          <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-            sql
-          </a>{" "}
-          to work on data thingyy, running daily and cooking (biryani). i find
+          currently im getting my hands dirty with <a href="https://blog.dataengineerthings.org">data</a>, running daily and cooking (biryani). i find
           all these very amusing and i think this time im gonna stick on to
           these.
         </p>
