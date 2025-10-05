@@ -2,9 +2,9 @@ function SpotifyCard() {
   return (
     <div>
       <h1 className="subheading mb-2">what sounds like heaven</h1>
-      <iframe 
+      <iframe
         data-testid="embed-iframe"
-        style={{borderRadius:"12px"}}
+        style={{ borderRadius: "12px" }}
         src="https://open.spotify.com/embed/track/52ojopYMUzeNcudsoz7O9D?utm_source=generator&theme=0"
         width="100%"
         height="152"

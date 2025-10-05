@@ -34,3 +34,8 @@ a{
      font-weight: bold;
 }
 
+
+.dark-link {
+  color: rgb(99, 85, 74);
+  text-decoration: underline;
+}

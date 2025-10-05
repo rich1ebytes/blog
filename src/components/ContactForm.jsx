@@ -1,6 +1,5 @@
 import { useState } from "react";
 
-
 function ContactForm() {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState("");
@@ -29,21 +28,25 @@ function ContactForm() {
         </h1>
         <div className="flex flex-box gap-4">
           <input
-          className="w-1/2 border border-width-10px border-black outline-none p-4"
-          type="email"
-          value={email}
-          required
-          onChange={(emailentry) => {
-            setEmail(emailentry.target.value);
-          }}
-          placeholder="drop thyy mail please..."
-        ></input>
-        <button className="w-1/6 border border-2px border-black p-2 cursor-pointer hover:text-white hover:bg-black" type="submit">click</button>
+            className="w-1/2 border border-width-10px border-black outline-none p-4"
+            type="email"
+            value={email}
+            required
+            onChange={(emailentry) => {
+              setEmail(emailentry.target.value);
+            }}
+            placeholder="drop thyy mail please..."
+          ></input>
+          <button
+            className="w-1/6 border border-2px border-black p-2 cursor-pointer hover:text-white hover:bg-black"
+            type="submit"
+          >
+            click
+          </button>
         </div>
         <p className="para">{status}</p>
       </div>
     </form>
-    
   );
 }
 

@@ -1,5 +1,7 @@
-import SpotifyCard from '../components/SpotifyCard.jsx'
-import MoviesCard from '../components/MoviesCard.jsx'
+import SpotifyCard from "../components/SpotifyCard.jsx";
+import MoviesCard from "../components/MoviesCard.jsx";
+import CarCard from "../components/CarCard.jsx";
+import Border from "../components/Border.jsx";
 
 function Stuff() {
   return (
@@ -14,11 +16,17 @@ function Stuff() {
         <p className="para">
           this is a collection of all the things i love and cherish in my life.
         </p>
-        <hr className="my-2 border-t border-gray-300" />
-        
-        <div className='flex flex-col gap-4'>
-          <SpotifyCard/>
-          <MoviesCard/>
+        <Border />
+        <div className="flex flex-col">
+          <MoviesCard />
+        <Border />
+
+          <SpotifyCard />
+        <Border />
+
+          <CarCard />
+        <Border />
+
         </div>
       </div>
     </>
