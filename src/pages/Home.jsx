@@ -35,22 +35,23 @@ function Home() {
         </p>
         <p className="para">
           in the most of 2025 i did start multiple things but never really
-          completed anything. be it my business, a tech skill, a book to read, fitness, a new
-          good habit or a routine.
+          completed anything. be it my business, a tech skill, a book to read,
+          fitness, a new good habit or a routine.
         </p>
         <p className="para">
           but now, i think im a changed person, someone who looks forward in
           life, stops complaining and does what it takes.
         </p>
         <p className="para">
-          currently im getting my hands dirty with <a href="https://blog.dataengineerthings.org">data</a>, running daily and cooking (biryani). i find
-          all these very amusing and i think this time im gonna stick to
-          these.
+          currently im getting my hands dirty with{" "}
+          <a href="https://blog.dataengineerthings.org">data</a>, running daily
+          and cooking (biryani). i find all these very amusing and i think this
+          time im gonna stick to these.
         </p>
         <Border />
         <p className="para">
-          i don't regret trying multiple things out, but that's what made me come
-          this far. i'm gonna learn so many more cool stuff (hopefully).{" "}
+          I don't regret trying multiple things out, that's what got me this
+          far. I'm gonna learn so much more cool stuff (hopefully)! 👹
           <b>👹!</b>
         </p>
         <p className="para">
